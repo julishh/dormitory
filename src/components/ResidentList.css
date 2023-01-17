@@ -1,0 +1,24 @@
+
+.section-title{
+    font-size: larger;
+    font-weight: bold;
+    margin-top:20px;
+}
+table{
+    
+    padding: 5px;
+    background-color:white ;
+    width:100%;
+   
+}
+
+tr{
+    background-color:rgb(119, 146, 119) ; 
+    color:white;
+    font-size: medium;
+}
+
+th{
+    font-size: large;
+    background-color:rgb(114, 199, 114) ;
+}
